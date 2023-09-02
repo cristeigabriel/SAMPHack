@@ -1,5 +1,5 @@
 # SAMPHack
-Unfinished SA:MP cheat with thread-safe rendering, likely not gonna be updated.
+Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated.
 
 # Features
 - Own hooking library;
